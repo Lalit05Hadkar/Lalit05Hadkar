@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lalit05Hadkar-181717?logo=github)](https://github.com/Lalit05Hadkar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-0A7BFF)](https://github.com/Lalit05Hadkar/portfolio)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:lalit.h@machau.in)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:lalithadkar125@gmail.com)
 
 </div>
 
@@ -51,4 +51,4 @@
 
 ## 📫 Contact
 
-Open to opportunities and collaboration: [lalit.h@machau.in](mailto:lalit.h@machau.in)
+Open to opportunities and collaboration: [lalithadkar125@gmail.com](mailto:lalithadkar125@gmail.com)
